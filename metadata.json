@@ -1,0 +1,7 @@
+{
+  "name": "RUN TRACKER",
+  "description": "A premium, AI-powered running application featuring interval training, GPS tracking, and personalized coaching via Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
